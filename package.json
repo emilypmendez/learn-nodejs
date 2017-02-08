@@ -1,0 +1,10 @@
+{
+  "name": "learn-nodejs",
+  "version": "0.0.1",
+  "description": "Our first Node.js app",
+  "main": "server.js",
+  "author": "Emily Mendez",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
